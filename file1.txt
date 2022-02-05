@@ -1,2 +1,3 @@
 Hello World
 
+This file and repo was created in order to demonstrate how to initialize a local repository. For the steps on how to do so take a look at the slides and recording for lecture 1.
